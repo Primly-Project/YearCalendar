@@ -1,3 +1,5 @@
+### ⚠️ This plugin is no longer being updated.
+
 # YearCalendar
 
 **Original Calendar plugin.**  
@@ -85,3 +87,5 @@ date-display:
   click-to-view: "§7Click to view!"
 ```
 </details>
+
+[Primly](https://primly.wejkey.org) | [Discord](https://discord.wejkey.org)
