@@ -88,4 +88,4 @@ date-display:
 ```
 </details>
 
-[Primly](https://primly.wejkey.org) | [Discord](https://discord.wejkey.org)
+[Documents](https://github.com/Primly-Project/Documentation) | [Discord](https://discord.wejkey.org/)
